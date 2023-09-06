@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF3700B3</color>
+    <color name="teal_700">#FF3700B3</color>
+
+
+
+    <color name="colorPrimary">#5EB7C9</color>
+    <color name="colorPrimaryLight">#6F58F8</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#FF3700B3</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="golden">#d4af37</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="black_opacity_50">#80000000</color>
+    <color name="orange">#ff865d</color>
+    <color name="orange_faded">#27FF865D</color>
+    <color name="orange_dark">#E65100</color>
+    <color name="orange_dark_faded">#CCE65100</color>
+    <color name="on_boarding_background_white">#ffffff</color>
+    <color name="line_color">#808080</color>
+    <color name="transparent">#00000000</color>
+    <color name="default_blue_color">#007AFF</color>
+    <color name="red">#ff0000</color>
+    <color name="account_red">#D32F2F</color>
+    <color name="natural_red">#A13838</color>
+    <color name="natural_red_80">#CCA13838</color>
+
+
+    <color name="blue_dark">#192034</color>
+    <color name="blue_status_bar_color">#00227b</color>
+    <color name="blue_action_bar_color">#3949ab</color>
+    <color name="blue_light_dark">#222A41</color>
+    <color name="blue_account">#EDECEC</color>
+    <color name="blue_account_faded">#F4F4F4</color>
+    <color name="blue_darker">#121727</color>
+    <color name="blue_dark_faded">#B3192034</color>
+    <color name="blue_video_placeholder">#DAD9D9</color>
+    <color name="image_background_color">#F2F0F0</color>
+    <color name="blue_text_color_secondary">#B6C3DD</color>
+    <color name="text_color_primary">#000000</color>
+    <color name="inverted_color">#000000</color>
+    <color name="background_light_dark">#ffffff</color>
+
+    <color name="forest_green">#2C5F2D</color>
+    <color name="moss_green">#FF97BC62</color>
+
+    <color name="indigo_600">#3949ab</color>
+    <color name="blue_600">#4e6cef</color>
+    <color name="green_600">#0a8f08</color>
+    <color name="teal_600">#00897b</color>
+
+    <color name="foundation_color">#906b4d</color>
+    <color name="skincolor">#b58161</color>
+
+    <color name="flow_layout_text_bg">#01B9F9</color>
+
+    <color name="lipstick_shade_1">#7A2C25</color>
+    <color name="lipstick_shade_2">#9B5B55</color>
+    <color name="lipstick_shade_3">#DB3218</color>
+
+    <color name="seekbar_progress_color">#7ac597</color>
+    <color name="seekbar_background_color">#f1f1f1</color>
+    <color name="text_view_background">#dedede</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="white_40">#66FFFFFF</color>
+    <color name="SoftUILight_colorEditText">#347373EA</color>
+    <color name="Theme2_textColorSecondary">#747474</color>
+    <color name="Theme2_textColorPrimary">#212121</color>
+    <color name="blue_app_color">#324559</color>
+    <color name="test">#E8F2F1</color>
+    <color name="eyebrow_color">#4D654321</color>
+    <color name="dark_brown">#654321</color>
+    <color name="medium_brown">#7f5112</color>
+    <color name="light_brown">#b5651d</color>
+    <color name="chestnut_brown">#954535</color>
+    <color name="ginger_red">#d93e14</color>
+    <color name="copper_red">#912e17</color>
+    <color name="titian_red">#4a0b0f</color>
+    <color name="light_blond">#faf0be</color>
+    <color name="golden_blond">#bf9f6a</color>
+    <color name="grey_hair">#8a9597</color>
+    <color name="white_hair">#aaa9ad</color>
+    <color name="auburn">#A52A2A</color>
+    <color name="warm_skin">#9a6f4e</color>
+    <color name="cool_skin">#dfba8c</color>
+    <color name="neutral_skin">#e4d0bb</color>
+    <color name="black_hair">#242024</color>
+
+    <color name="background_nested_card_color">#f0f0f0</color>
+
+    <color name="text_color">#353535</color>
+    <color name="login_signup_text_color">#324559</color>
+    <color name="light_app_color">#78838E</color>
+    <color name="dark_app_color">#08294A</color>
+
+    <color name="survey_background_color">#EDC0A9</color>
+    <color name="button_blue">#374db0</color>
+
+    <color name="action">#5EA1D6</color>
+    <color name="title">#afafaf</color>
+
+</resources>

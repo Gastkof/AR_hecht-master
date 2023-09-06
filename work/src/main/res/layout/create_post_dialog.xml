@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dimen_300dp"
+    android:background="@color/transparent"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/dimen_300dp"
+        android:layout_margin="@dimen/dimen_20dp"
+        android:background="@drawable/curve_dialog">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_300dp">
+
+            <RelativeLayout
+                android:id="@+id/rlUploadImage"
+                android:layout_weight="1"
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/img1"
+                    android:layout_width="@dimen/dimen_150dp"
+                    android:layout_height="@dimen/dimen_150dp"
+                    android:layout_centerInParent="true"
+                    android:visibility="gone"
+                    android:src="@drawable/ic_baseline_image_24" />
+                <TextView
+                    android:layout_below="@+id/img1"
+                    android:layout_centerHorizontal="true"
+                    android:text="Upload image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+            </RelativeLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent">
+                <View
+                    android:background="@color/black"
+                    android:layout_width="0.5dp"
+                    android:layout_height="match_parent"/>
+            </LinearLayout>
+            <RelativeLayout
+                android:id="@+id/rlCreatePost"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/img2"
+                    android:layout_width="@dimen/dimen_150dp"
+                    android:layout_height="@dimen/dimen_150dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/ic_baseline_create_24" />
+                <TextView
+                    android:layout_below="@+id/img2"
+                    android:layout_centerHorizontal="true"
+                    android:text="Create post"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>
